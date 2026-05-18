@@ -1,2 +1,0 @@
-"# Bachelor-Code" 
-# Bachelor-Code
